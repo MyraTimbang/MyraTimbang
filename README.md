@@ -1,19 +1,26 @@
 | ˶>ヮ<˶)ﾉﾞ~ hello! Nice to meet you (u⩊u🌸)✨  
 
-## 🎓 Education  
+## <sub><img src="https://raw.githubusercontent.com/MyraTimbang/IT-Elective/refs/heads/main/Week-5/images/button-pouch.svg" alt="Pouch" width="50" height="50"></sub>EDUCATION  
 Bachelor of Science in **Information Technology**  
 * **New Era University**
 * 2024 - *Present*
 <br><br>
-## 🏅 Certifications  
+## <sub><img src="https://raw.githubusercontent.com/MyraTimbang/IT-Elective/refs/heads/main/Week-5/images/button-id.svg" alt="Certificate" width="35" height="35"></sub> CERTIFICATIONS  
 | Title | Issuing Authority | Date Earned |
 | :--- | :--- | :---: |
 | Placeholder | Placeholder | Month Year |  
   
 🚧  👷Work In Progress...⏳  🚧
 <br><br>
-## 🛠️ Skillsets  
+## <sub><img src="https://raw.githubusercontent.com/MyraTimbang/IT-Elective/refs/heads/main/Week-5/images/button-star.svg" alt="Star" width="40" height="40"></sub> SKILLSETS  
 🚧  👷Work In Progress...⏳  🚧
+
+<br><br>
+
+![Chiikawa](https://raw.githubusercontent.com/MyraTimbang/IT-Elective/refs/heads/main/Week-5/images/chiikawa.svg)
+
+That's all for now :D  
+<sub>*I made all of the vectors you can see here, btw* 😎</sub>
 
 <!--
 **MyraTimbang/MyraTimbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
