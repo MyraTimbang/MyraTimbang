@@ -10,10 +10,11 @@ Bachelor of Science in **Information Technology**
 | Title | Issuing Authority | Date Earned |
 | :--- | :--- | :---: |
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8d509a643e5a4cc2b426ea9d06362409) | IBM | November 2025 |
-| [*Oracle Cloud Infrastructure Foundations Associate]()| Oracle | December 2025 |
-| [*Oracle Data Platform Foundations Associate]()| Oracle | December 2025 |
-| [*OCI AI 2025 Foundations Associate]()| Oracle | December 2025 |
-* Passed Examinations and waiting for Badges
+| [* Oracle Cloud Infrastructure Foundations Associate]()| Oracle | December 2025 |
+| [* Oracle Data Platform Foundations Associate]()| Oracle | December 2025 |
+| [* OCI AI 2025 Foundations Associate]()| Oracle | December 2025 |
+
+Note*: Passed Examinations and waiting for Badge Links
 
 🚧  👷Work In Progress...⏳  🚧
 <br><br>
