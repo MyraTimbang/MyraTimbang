@@ -14,7 +14,7 @@ Bachelor of Science in **Information Technology**
 | [* Oracle Data Platform Foundations Associate]()| Oracle | December 2025 |
 | [* OCI AI 2025 Foundations Associate]()| Oracle | December 2025 |
 
-Note*: Passed Examinations and waiting for Badge Links
+Note* Passed examinations and waiting for badge links -- will update as soon as available.
 
 🚧  👷Work In Progress...⏳  🚧
 <br><br>
